@@ -3,4 +3,4 @@ A simple paypal  api integration module using php with mvc architecture
 
 
 todo
-create module by 30 july
+create module on stripe gateway
